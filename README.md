@@ -1,6 +1,6 @@
 how to download
 
-step 1- Download NanoMidi firs and make sure to turn off your virus protection because then it just wont work and your browser will delete the file. dont worry this is not a virus here is a tutorial:
+step 1- Download NanoMidi firs and make sure to turn off your virus protection because then it just wont work and your browser will delete the file. dont worry this is not a virus here is a tutorial: https://youtu.be/jqjpzDmxxfk
 
 step 2- download midi to qwerty and here is a tutorial:
 
