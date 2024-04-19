@@ -4,8 +4,8 @@ step 1- Download NanoMidi firs and make sure to turn off your virus protection b
 
 step 2- download midi to qwerty and here is a tutorial: https://youtu.be/j2OQ04j877c
 
-step 3- once your done download loopbe1monitor.exe and here is a tutorial:
+step 3- once your done download loopbe1monitor.exe and here is a tutorial: https://youtu.be/0-W8GYjrRQM
 
-step 4- and here is a video on how to run the the thing for virtual piano and roblox piano:
+step 4- and here is a video on how to run the the thing for virtual piano and roblox piano: https://youtu.be/bvh4WM0Z72E
 
 step 5- enjoy!
